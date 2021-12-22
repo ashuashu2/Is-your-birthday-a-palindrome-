@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+    margin-top: 5rem;
+}
+
+label{
+    font-size: x-large;
+    display: block;
+    margin-bottom: 0.3rem;
+
+}
+.show-button{
+    font-size: larger;
+    margin: auto;
+    display: block;
+    margin-top: 0.5rem;
+    font-size: x-large;
+    background-color: cornsilk;
+}
+input{
+    width: 25%;
+    height: 5vh;
+    text-align: center;
+    margin: auto;
+
+}
+.output-box{
+    font-size: x-large;
+color:darkblue;
+border-color: solid black;
+margin-top: 1rem;
+}
